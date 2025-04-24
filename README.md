@@ -1,0 +1,1 @@
+burada yapmaya çalıştığım proje küçük bir oyun aslında ekranda random şeyler ortaya çıkıyor ve bunlara basıyorsunuz. bu oyunda puanlama sistemi var ve bu puanlar belli bi seviyeye ulaştığında tebrik mesajı veriyor 
